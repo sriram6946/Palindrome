@@ -13,4 +13,5 @@ function check(){
     } else {
         alert("It is not a palindrome")
     }
+input.value = ""
 }
